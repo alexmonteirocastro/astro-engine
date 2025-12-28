@@ -128,3 +128,14 @@ Astro-Engine outputs chart data as structured JSON, including:
 - major aspects with orbs and phases
 
 This makes the engine suitable as a data layer for other applications.
+
+## License
+
+MIT License
+
+
+This software uses Swiss Ephemeris
+
+© Astrodienst AG
+
+Licensed under the Swiss Ephemeris Free License
